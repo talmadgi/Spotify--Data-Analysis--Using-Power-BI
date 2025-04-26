@@ -83,3 +83,5 @@ This Spotify data analytics project successfully achieved its objective of visua
 🔹Top 5 entities and year-on-year growth allow deeper analysis into trending artists and changing music tastes.
 
 🔹Drill Through features offer granular data exploration, enhancing the overall analytical experience.
+
+# THANK YOU
