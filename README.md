@@ -1,5 +1,5 @@
 
-# 🎵 Spotify Data Analytics Project Overview
+# 🎵 Spotify Data Analytics Using Power BI
 # 🔹 Project Overview
 This project aims to analyze Spotify user listening patterns over time — specifically focusing on artists, albums, and tracks. By creating dynamic dashboards and interactive reports, the project provides deep insights into how users engage with music across different time periods, weekdays vs weekends, and different listening behaviors.
 
